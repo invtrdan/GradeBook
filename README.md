@@ -6,7 +6,7 @@ A grade book to keep track student grades for several couses that a professor te
 * WE suggest that you run each subsection individually in your compiler.
 
 ## Authors
-* Nikolas Buckle - nikolas.buckle@bison.howard.edi
+* Nikolas Buckle - nikolas.buckle@bison.howard.edu
 * Danielle McIntosh - danielle.mcintosh@bison.howard.edu
 * Antonia Jaimeson-Shirley - antonia.jaimeson-sh@bison.howard.edu
 
